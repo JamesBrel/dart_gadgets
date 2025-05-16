@@ -1,0 +1,18 @@
+# .github/FUNDING.yml
+# Active le bouton "Sponsor" sur GitHub
+
+github: [your-github-username]  # GitHub Sponsors
+
+# Plateformes tierces
+patreon: your-patreon-username
+ko_fi: your-kofi-username
+
+
+
+# Options personnalisées
+custom:
+  - "https://paypal.me/YourPaypalLink"
+  - "https://cryptodonation.address/your-wallet"
+  - "https://votre-site.com/dons"
+
+# Configuration optionnelle des types de dons

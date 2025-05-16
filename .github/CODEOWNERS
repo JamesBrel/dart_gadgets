@@ -1,0 +1,32 @@
+# .github/CODEOWNERS
+
+# Responsable technique global (tous les fichiers non couverts)
+*               @alex-tech-lead
+
+# Core Flutter (dossier lib et configuration principale)
+/lib/**         @flutter-team @alex-tech-lead
+/pubspec.yaml   @flutter-team
+/pubspec.lock   @flutter-team
+
+# Tests unitaires et d'intégration
+/test/**        @qa-team @flutter-team
+/integration_test/** @qa-team
+
+# Documentation
+/docs/**        @docs-team
+/README.md      @alex-tech-lead @docs-team
+
+# Configuration CI/CD
+.github/workflows/** @devops-team
+
+# Plateforme spécifique - Android
+/android/**     @android-team
+
+# Plateforme spécifique - iOS
+/ios/**         @ios-team
+
+# Configuration Firebase
+/firebase/**    @backend-team firebase-experts@company.com
+
+# Fichiers de design (SVG, etc.)
+/assets/**      @design-team
