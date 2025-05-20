@@ -69,7 +69,10 @@ dependencies:
 
 ## **Packages Used**
 * [x] **Dart Dependencies Used**
-  - 
+  - flutter_staggered_grid_view: ^0.7.0
+  - flutter_speed_dial: ^7.0.0
+  - fluttertoast: ^8.2.12
+  - logger: ^2.5.0
   
 * [x] **Dart Dev_Dependencies Used**
   - 
